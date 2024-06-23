@@ -1,4 +1,4 @@
-          ////////www.emic.ir////////
+          ///////Sayyed Hossein Hosseini & Reza Aalaei////////
 #include <mega32.h>
 #include <delay.h>
 
